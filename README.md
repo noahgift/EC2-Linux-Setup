@@ -1,5 +1,7 @@
 # EC2-Linux-Setup
 
+[YouTube Walkthrough Here](https://www.youtube.com/watch?v=HZIG4Kwnrs4&feature=youtu.be)
+
 1.  Setup PEM key
 2.  Create security group to allow:  22 and 80
 3.  Upload to Cloud9
